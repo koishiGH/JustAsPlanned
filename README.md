@@ -1,6 +1,6 @@
 # Just As Planned
 
-* MuseDash DLC Unlocker
+* MuseDash DLC Unlocker (for Linux/Unix)
 
 * Download in releases :3
 
